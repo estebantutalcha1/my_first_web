@@ -1,1 +1,1 @@
-alert("hola platzi")
+alert("hola platzi v2.0")
